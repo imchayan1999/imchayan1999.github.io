@@ -1,0 +1,22 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "A birthday animation using html,css and javascript",
+  "main": "effect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imchayan1999/Javascript.git"
+  },
+  "author": "Chayan Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imchayan1999/Javascript/issues"
+  },
+  "homepage": "https://github.com/imchayan1999/Javascript#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
