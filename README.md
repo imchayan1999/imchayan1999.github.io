@@ -1,4 +1,4 @@
-This is a animation created in HTML5 and CSS3
+This is an animation created in HTML5 and CSS3
 
 if you have nodejs installed, use:
 
